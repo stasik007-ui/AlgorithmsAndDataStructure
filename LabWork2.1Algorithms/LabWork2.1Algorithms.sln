@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35209.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabWork2.1Algorithms", "LabWork2.1Algorithms\LabWork2.1Algorithms.csproj", "{1B18F35F-E8C6-41DE-B09B-B1C32D801778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B18F35F-E8C6-41DE-B09B-B1C32D801778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B18F35F-E8C6-41DE-B09B-B1C32D801778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B18F35F-E8C6-41DE-B09B-B1C32D801778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B18F35F-E8C6-41DE-B09B-B1C32D801778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51CC17D2-9735-4D1E-BF24-3A178F1FD97B}
+	EndGlobalSection
+EndGlobal
