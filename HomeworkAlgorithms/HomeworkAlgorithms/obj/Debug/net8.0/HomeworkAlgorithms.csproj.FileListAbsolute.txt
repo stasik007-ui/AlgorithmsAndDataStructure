@@ -1,0 +1,14 @@
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\net8.0\HomeworkAlgorithms.exe
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\net8.0\HomeworkAlgorithms.deps.json
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\net8.0\HomeworkAlgorithms.runtimeconfig.json
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\net8.0\HomeworkAlgorithms.dll
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\bin\Debug\net8.0\HomeworkAlgorithms.pdb
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\net8.0\HomeworkAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\net8.0\HomeworkAlgorithms.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\net8.0\HomeworkAlgorithms.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\net8.0\HomeworkAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\net8.0\HomeworkAlgorithms.dll
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\net8.0\refint\HomeworkAlgorithms.dll
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\net8.0\HomeworkAlgorithms.pdb
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\net8.0\HomeworkAlgorithms.genruntimeconfig.cache
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\HomeworkAlgorithms\HomeworkAlgorithms\obj\Debug\net8.0\ref\HomeworkAlgorithms.dll
