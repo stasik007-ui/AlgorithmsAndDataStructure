@@ -1,0 +1,14 @@
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\bin\Debug\net8.0\LabWork9Algorithms.exe
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\bin\Debug\net8.0\LabWork9Algorithms.deps.json
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\bin\Debug\net8.0\LabWork9Algorithms.runtimeconfig.json
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\bin\Debug\net8.0\LabWork9Algorithms.dll
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\bin\Debug\net8.0\LabWork9Algorithms.pdb
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\obj\Debug\net8.0\LabWork9Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\obj\Debug\net8.0\LabWork9Algorithms.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\obj\Debug\net8.0\LabWork9Algorithms.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\obj\Debug\net8.0\LabWork9Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\obj\Debug\net8.0\LabWork9Algorithms.dll
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\obj\Debug\net8.0\refint\LabWork9Algorithms.dll
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\obj\Debug\net8.0\LabWork9Algorithms.pdb
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\obj\Debug\net8.0\LabWork9Algorithms.genruntimeconfig.cache
+C:\Users\stasi\OneDrive\Робочий стіл\LabsAlgorithmsAndDataStructure\LabWork9Algorithms\LabWork9Algorithms\obj\Debug\net8.0\ref\LabWork9Algorithms.dll
